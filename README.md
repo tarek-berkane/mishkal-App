@@ -1,9 +1,9 @@
 # mishkal
 
 A new Flutter project.
-![alt text](https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png)
 <div align="center">
     <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png" width="400px"</img> 
+    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png" width="400px"</img> 
 </div>
 
 
