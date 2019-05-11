@@ -16,7 +16,7 @@
 
 How does Mishkal App work:
 ---------------------- 
-Mishkal app  build in flutter using dart.
+Mishkal app  build in flutter using dart, 
 Mishkal app based on http request from mishkal website , implement Mvc architecture .  
 version 1.0
 
