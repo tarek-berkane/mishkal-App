@@ -3,7 +3,7 @@
 
 [![downloads]( https://img.shields.io/sourceforge/dt/mishkal.svg)](http://sourceforge.org/projects/mishkal)
 [![downloads]( https://img.shields.io/sourceforge/dm/mishkal.svg)](http://sourceforge.org/projects/mishkal)
-[![github]( https://img.shields.io/badge/github-1-green.svg)](https://github.com/linuxscout/mishkal)
+[![github](https://img.shields.io/badge/mishkal-%24-green.svg)](https://github.com/linuxscout/mishkal)
 
 <div align="center">
     <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/home1.png" width="250px"</img>
