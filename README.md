@@ -2,7 +2,9 @@
 
 A new Flutter project.
 ![alt text](https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png)
-![Screenshot](https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png?"width="350"")
+<div align="center">
+    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png" width="400px"</img> 
+</div>
 
 
 ## Getting Started
