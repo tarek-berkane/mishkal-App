@@ -83,6 +83,5 @@ class Con extends ControllerMVC {
   static Future<Map> setOptionRequestText(String text, option) async {
     return JsonRequest.jsonRequest(text, option);
   }
-  // static final model = Model();
 
 }
