@@ -2,6 +2,8 @@
 
 A new Flutter project.
 ![alt text](https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png)
+![alt text](https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png)
+
 
 ## Getting Started
 
