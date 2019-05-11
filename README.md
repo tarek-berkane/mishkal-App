@@ -2,9 +2,9 @@
 
 A new Flutter project.
 <div align="center">
-    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/home1.png" width="300px"</img>
-    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png" width="300px"</img> 
-    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png" width="300px"</img> 
+    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/home1.png" width="250px"</img>
+    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text2.png" width="250px"</img> 
+    <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png" width="250px"</img> 
 </div>
 
 
