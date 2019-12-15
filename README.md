@@ -14,7 +14,7 @@
     <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png" width="250px"</img> 
 </div>
 
-<h1>TODO:</h1>
+<h4>TODO:</h4>
       -[ ] <a href='https://pub.dev/packages/flutter_bloc'>ADD Flutter_Bloc</a>  
 
 How does Mishkal App work:
