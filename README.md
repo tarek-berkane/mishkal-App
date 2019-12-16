@@ -1,5 +1,6 @@
 # mishkal
   Mishkal Arabic text vocalization software  مشكال لتشكيل النصوص العربية
+
 [![downloads]( https://img.shields.io/sourceforge/dt/mishkal.svg)](http://sourceforge.org/projects/mishkal)
 [![downloads]( https://img.shields.io/sourceforge/dm/mishkal.svg)](http://sourceforge.org/projects/mishkal)
 [![github](https://img.shields.io/badge/mishkal-%24-green.svg)](https://github.com/linuxscout/mishkal)
