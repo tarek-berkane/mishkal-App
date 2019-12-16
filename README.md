@@ -5,7 +5,7 @@
 [![github](https://img.shields.io/badge/mishkal-%24-green.svg)](https://github.com/linuxscout/mishkal)
 
 
-  try mishkal apk : <a href='https://drive.google.com/open?id=1FYhbxMkdXP8ulTSZF9iz7Yw7RN24F9wE'>link</a>
+ 
 
 <div align="center">
     <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/home1.png" width="250px"</img>
@@ -16,6 +16,7 @@
     <img src="https://github.com/tarekDZ2019/mishkal-App/blob/master/images/text1.png" width="250px"</img> 
 </div>
 
+ try mishkal apk : <a href='https://drive.google.com/open?id=1FYhbxMkdXP8ulTSZF9iz7Yw7RN24F9wE'>link</a>
 <h4>TODO:</h4>
       -[ ] <a href='https://pub.dev/packages/flutter_bloc'>ADD Flutter_Bloc</a>  
 
