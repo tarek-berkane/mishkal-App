@@ -1,7 +1,7 @@
 # mishkal
  try mishkal apk : <a href='https://drive.google.com/open?id=1FYhbxMkdXP8ulTSZF9iz7Yw7RN24F9wE'>link</a>
 <div>
-    <a href='https://play.google.com/store/apps/details?id=com.DevDZBouira.mishkal_app'><img alt='Get it on Google Play' src='assets/buttons/google_play.png' height='48px'/></a>
+    <a href='https://play.google.com/store/apps/details?id=com.DevDZBouira.mishkal_app'><img alt='Get it on Google Play' src='images/google_play.png' height='48px'/></a>
 </div>
 
   Mishkal Arabic text vocalization software  مشكال لتشكيل النصوص العربية
